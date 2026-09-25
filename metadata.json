@@ -1,0 +1,6 @@
+{
+  "name": "VentureForge AI",
+  "description": "AI-powered startup planning, business analysis, venture evaluation, financial modeling, and strategic execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

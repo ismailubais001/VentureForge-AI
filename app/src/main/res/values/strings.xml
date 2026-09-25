@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">VentureForge AI</string>
+    <string name="app_tagline">Venture Strategy • Evaluation • Financial Modeling</string>
+    <string name="create_new_venture">Create New Venture</string>
+    <string name="recent_ventures">Recent Ventures</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="simulator">Financial Simulator</string>
+    <string name="settings">Settings</string>
+    <string name="ai_safety">AI Safety</string>
+    <string name="report_content">Report AI Content</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="save_venture">Save Venture Plan</string>
+    <string name="edit_venture">Edit Venture</string>
+    <string name="delete_venture">Delete Venture</string>
+    <string name="duplicate_venture">Duplicate</string>
+    <string name="compare_ventures">Compare Ventures</string>
+    <string name="analyze_venture">Analyze Venture</string>
+    <string name="export_report">Export Report</string>
+    <string name="feasibility_score">Feasibility Score</string>
+    <string name="swot_analysis">SWOT Analysis</string>
+    <string name="business_model_canvas">Business Model Canvas</string>
+    <string name="action_plan">Action Plan</string>
+    <string name="unit_economics">Unit Economics</string>
+    <string name="break_even">Break-Even</string>
+    <string name="runway">Runway</string>
+</resources>

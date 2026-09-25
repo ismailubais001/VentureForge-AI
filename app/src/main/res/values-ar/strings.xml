@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">VentureForge AI</string>
+    <string name="app_tagline">استراتيجية المشاريع • تقييم الجدوى • النمذجة المالية</string>
+    <string name="create_new_venture">إنشاء مشروع جديد</string>
+    <string name="recent_ventures">المشاريع الحديثة</string>
+    <string name="portfolio">محفظة المشاريع</string>
+    <string name="simulator">المحاكي المالي</string>
+    <string name="settings">الإعدادات</string>
+    <string name="ai_safety">سلامة الذكاء الاصطناعي</string>
+    <string name="report_content">الإبلاغ عن محتوى</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="terms_of_service">شروط الخدمة</string>
+    <string name="save_venture">حفظ خطة المشروع</string>
+    <string name="edit_venture">تعديل المشروع</string>
+    <string name="delete_venture">حذف المشروع</string>
+    <string name="duplicate_venture">نسخ المشروع</string>
+    <string name="compare_ventures">مقارنة المشاريع</string>
+    <string name="analyze_venture">تحليل المشروع بالذكاء الاصطناعي</string>
+    <string name="export_report">تصدير التقرير</string>
+    <string name="feasibility_score">درجة الجدوى</string>
+    <string name="swot_analysis">تحليل سوات (SWOT)</string>
+    <string name="business_model_canvas">مخطط نموذج العمل التجاري</string>
+    <string name="action_plan">خطة العمل</string>
+    <string name="unit_economics">اقتصاديات الوحدة</string>
+    <string name="break_even">نقطة التعادل</string>
+    <string name="runway">المدرج المالي</string>
+</resources>
